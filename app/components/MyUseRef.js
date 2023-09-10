@@ -12,7 +12,7 @@ function MyUseRef() {
   };
 
 
-  const [food,setFood]=useState("");
+  const [food,setFood]=useState("ice-cream");
 
   return (
     <div>
